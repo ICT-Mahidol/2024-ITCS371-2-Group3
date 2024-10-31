@@ -1,5 +1,5 @@
 public class Napat {
     public static void main(String[] args) {
-        System.out.println("Hello <Napat>");
+        System.out.println("Hello Napat");
     }
 }
