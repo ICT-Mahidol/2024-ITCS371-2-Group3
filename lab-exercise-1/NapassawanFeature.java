@@ -1,4 +1,4 @@
-public class <Yourname>Feature {
+public class NapassawanFeature {
     public void feature() {
         // this is a new feature
         int x = 0;
